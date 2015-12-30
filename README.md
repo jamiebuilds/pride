@@ -3,3 +3,9 @@
 </p>
 
 ![](pridejs.png)
+
+Others:
+
+![](pridebabel.png)
+![](pridereact.png)
+![](jqueery.png)
