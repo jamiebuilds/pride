@@ -4,7 +4,7 @@
 
 ![](pridejs.png)
 
-Others:
+## Others:
 
 ![](pridebabel.png)
 ![](pridereact.png)
